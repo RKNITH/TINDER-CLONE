@@ -1,10 +1,3 @@
-<h1 align="center">Tinder Clone ✨</h1>
-
-![Demo App](/client/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/o-XOBJRNeqk)
-
-About This Course:
 
 -   🔐 Authentication System with JWT
 -   🛡️ Route Protection
